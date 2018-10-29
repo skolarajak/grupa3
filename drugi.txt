@@ -1,0 +1,1 @@
+Ovaj treba da ide u drugaciji commit od prvi.txt
