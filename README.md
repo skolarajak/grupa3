@@ -1,3 +1,3 @@
-# grupa3
+# Grupa 3 - GIT
 
 Ovo je promenjen README.
