@@ -1,1 +1,1 @@
-//div[@class="buttons-section"]
+//div[@class="mng-Html-content"]/p/a

@@ -1,2 +1,6 @@
 //div[contains(@class, "orange")]
-//div[contains(@class,"bounty-indicator-tab")]
+//span[contains(@class,"bounty-indicator-tab")]
+
+//i[contains(@class,"icon-")]
+
+//a[@href="https://www.telenor.rs/webshop/sr/Privatni-korisnici/Mobilni-telefoni/"]
