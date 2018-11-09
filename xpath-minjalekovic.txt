@@ -4,3 +4,5 @@
 //span[contains(@class, "bounty")]
 
 //a[contains(@class, "order-btn")]
+
+//a[@class="ft-soc-link"]/i
