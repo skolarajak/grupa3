@@ -6,3 +6,7 @@
 //a[contains(@class, "order-btn")]
 
 //a[@class="ft-soc-link"]/i
+
+//div[@class = "mng-Html-content"]/p/a
+
+//div[contains(@class, "reflist")]
