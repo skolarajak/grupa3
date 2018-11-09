@@ -1,1 +1,4 @@
 //div[contains(@class, "orange")]
+//div[contains(@class, "orange")]
+//span[contains(@class, "bounty")]
+//ul[@id="social-list"]
