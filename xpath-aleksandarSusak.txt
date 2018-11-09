@@ -10,3 +10,5 @@
 //*[contains(@class,"tag")]
 
 //*[contains(text(),"Posts Published")]
+
+//*[contains(@class,"widget-link-list")]
