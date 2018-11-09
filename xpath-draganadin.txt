@@ -1,1 +1,1 @@
-//div/a[@class = "tag"]
+//div[@class = "about-the-author"]
