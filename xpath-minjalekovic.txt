@@ -12,3 +12,5 @@
 //div[contains(@class, "reflist")]
 
 //a[@class = "tag"]
+
+//div[@class = "about-the-author"]
