@@ -1,2 +1,6 @@
+
 Ovo je novi fajl
 Rodjen nazalost u prelopoj Srbiji
+
+Ovaj red je za novi branch.
+
