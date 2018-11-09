@@ -1,1 +1,1 @@
-//div[@class="sidebar-data"]
+//*[@id="sidebar-additional"]/div[1]/div
