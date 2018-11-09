@@ -1,0 +1,5 @@
+https://dev.to/t/testing
+
+#discuss sekcija
+
+//div[@class="widget"]/*[contains(text(), "#discuss")]/..//div[contains(@class,"widget-link-list")]
