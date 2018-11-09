@@ -1,1 +1,1 @@
-//div[@class="reflist columns references-column-width"]
+//div/a[@class = "tag"]
