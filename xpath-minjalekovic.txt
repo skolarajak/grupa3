@@ -14,3 +14,5 @@
 //a[@class = "tag"]
 
 //div[@class = "about-the-author"]
+
+//*[contains(text(), "Posts")]
