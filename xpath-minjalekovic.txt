@@ -10,3 +10,5 @@
 //div[@class = "mng-Html-content"]/p/a
 
 //div[contains(@class, "reflist")]
+
+//a[@class = "tag"]
