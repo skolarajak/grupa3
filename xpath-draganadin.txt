@@ -1,1 +1,1 @@
-//*[contains(@class, "ft-soc-link")]/i
+//div[@class="mng-Html-content"]/p/a
