@@ -8,3 +8,5 @@
 //div[contains(@class, "reflist")]
 
 //*[contains(@class,"tag")]
+
+//*[contains(text(),"Posts Published")]
