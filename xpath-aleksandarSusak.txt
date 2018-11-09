@@ -4,3 +4,5 @@
 //i[contains(@class,"icon-")]
 
 //a[@href="https://www.telenor.rs/webshop/sr/Privatni-korisnici/Mobilni-telefoni/"]
+
+//div[contains(@class, "reflist")]

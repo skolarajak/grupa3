@@ -1,1 +1,1 @@
-//div[@class="mng-Html-content"]/p/a
+//div[@class="reflist columns references-column-width"]
