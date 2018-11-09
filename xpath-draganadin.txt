@@ -1,1 +1,1 @@
-//div[@class="buttons-section"]
+//*[contains(@class, "ft-soc-link")]/i
