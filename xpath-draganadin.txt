@@ -1,1 +1,1 @@
-//div[@class = "about-the-author"]
+//div[@class="sidebar-data"]
