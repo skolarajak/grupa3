@@ -1,1 +1,4 @@
-//a[@class = "top"]/span
+
+//div[contains(@class, "orange")]
+
+//span[contains(@class, "bounty")]
