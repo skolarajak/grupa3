@@ -1,1 +1,1 @@
-//span[@class="bounty-indicator-tab"]
+//div[@class="buttons-section"]
