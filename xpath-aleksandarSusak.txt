@@ -1,2 +1,4 @@
 //div[contains(@class, "orange")]
 //span[contains(@class,"bounty-indicator-tab")]
+
+//i[contains(@class,"icon-")]
