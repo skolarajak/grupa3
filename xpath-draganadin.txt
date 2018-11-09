@@ -1,2 +1,1 @@
-
-//div[@class = "tag-themed java tagged tex2jax_ignore clc-jobs-multi"]
+//span[@class="bounty-indicator-tab"]
