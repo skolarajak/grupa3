@@ -1,3 +1,4 @@
 //div[@id="hirene"]
 //span[contains(@class, "bounty")]
+<<<<<<< HEAD
 //a[contains(@href, "checkout") and contains(@class, "order")]
