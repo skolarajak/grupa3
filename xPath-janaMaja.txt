@@ -5,3 +5,4 @@
 //a[@class="ft-soc-link"]
 //div[@class="mng-Html-content"]/p/a
 //div[@class="reflist columns references-column-width"]
+//a[@class ="tag"]
