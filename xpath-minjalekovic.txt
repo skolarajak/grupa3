@@ -1,0 +1,18 @@
+
+//div[contains(@class, "orange")]
+
+//span[contains(@class, "bounty")]
+
+//a[contains(@class, "order-btn")]
+
+//a[@class="ft-soc-link"]/i
+
+//div[@class = "mng-Html-content"]/p/a
+
+//div[contains(@class, "reflist")]
+
+//a[@class = "tag"]
+
+//div[@class = "about-the-author"]
+
+//*[contains(text(), "Posts")]
