@@ -2,3 +2,5 @@
 //span[contains(@class, "bounty")]
 <<<<<<< HEAD
 //a[contains(@href, "checkout") and contains(@class, "order")]
+//ul[contains(@id, "social-list")]/li
+
