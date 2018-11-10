@@ -4,3 +4,4 @@
 //a[@class="btn order-btn js-order-bundle-btn js-select-package-2"]
 //a[@class="ft-soc-link"]
 //div[@class="mng-Html-content"]/p/a
+//div[@class="reflist columns references-column-width"]
