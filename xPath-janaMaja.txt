@@ -8,3 +8,4 @@
 //a[@class ="tag"]
 //div[@class = "about-the-author"]
 //div[contains(text(), "485 Posts Published")]
+//div[@class="widget"]/*[contains(text(), "#discuss")]/..//div[contains(@class, "widget-link-list")]
