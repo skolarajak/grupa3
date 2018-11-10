@@ -6,3 +6,4 @@
 //div[@class="mng-Html-content"]/p/a
 //div[@class="reflist columns references-column-width"]
 //a[@class ="tag"]
+//div[@class = "about-the-author"]
