@@ -1,1 +1,2 @@
 //div[@id="hirene"]
+//span[contains(@class, "bounty")]
