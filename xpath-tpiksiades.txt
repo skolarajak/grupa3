@@ -5,3 +5,4 @@
 //ul[contains(@id, "social-list")]/li
 //a[contains(text(), "sve telefone")]
 //div[contains(@class, "references-wrap")]
+//div[contains(@id, "author")]
