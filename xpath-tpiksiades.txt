@@ -6,3 +6,4 @@
 //a[contains(text(), "sve telefone")]
 //div[contains(@class, "references-wrap")]
 //div[contains(@id, "author")]
+//div[cintains(@class, "sidebar-data)]
