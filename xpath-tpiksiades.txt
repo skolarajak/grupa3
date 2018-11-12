@@ -1,0 +1,10 @@
+//div[@id="hirene"]
+//span[contains(@class, "bounty")]
+<<<<<<< HEAD
+//a[contains(@href, "checkout") and contains(@class, "order")]
+//ul[contains(@id, "social-list")]/li
+//a[contains(text(), "sve telefone")]
+//div[contains(@class, "references-wrap")]
+//div[contains(@id, "author")]
+//div[cintains(@class, "sidebar-data)]
+//div[contains(@class, "widget-body")]
