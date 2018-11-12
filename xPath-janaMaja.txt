@@ -1,0 +1,11 @@
+
+//div[@id="hireme"]
+//span[@class="bounty-indicator-tab"]
+//a[@class="btn order-btn js-order-bundle-btn js-select-package-2"]
+//a[@class="ft-soc-link"]
+//div[@class="mng-Html-content"]/p/a
+//div[@class="reflist columns references-column-width"]
+//a[@class ="tag"]
+//div[@class = "about-the-author"]
+//div[contains(text(), "485 Posts Published")]
+//div[@class="widget"]/*[contains(text(), "#discuss")]/..//div[contains(@class, "widget-link-list")]
