@@ -8,3 +8,4 @@
 //span[contains(@class,"reference")]/a
 //a[@class="tag"]
 //div[@class="about-the-author"]
+//div[@class="sidebar-data"]/div
