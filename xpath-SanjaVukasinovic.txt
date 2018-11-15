@@ -2,3 +2,5 @@
 //span[@class="bounty-indicator-tab"]
 //a[@class="btn order-btn js-order-bundle-btn js-select-package-2"] 
 2.način //a[contains(@class,"bundle")]
+//a[contains(@class, "soc-link")]
+//div[@class="mng-Html-content"]/p/a/@href
