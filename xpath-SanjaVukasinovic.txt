@@ -7,3 +7,4 @@
 //div[@class="mng-Html-content"]/p/a
 //span[contains(@class,"reference")]/a
 //a[@class="tag"]
+//div[@class="about-the-author"]
