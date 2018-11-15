@@ -6,3 +6,4 @@
 //div[@class="mng-Html-content"]/p/a/@href
 //div[@class="mng-Html-content"]/p/a
 //span[contains(@class,"reference")]/a
+//a[@class="tag"]
