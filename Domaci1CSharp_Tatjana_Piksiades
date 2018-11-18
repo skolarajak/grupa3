@@ -1,0 +1,40 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _5___Primer___Bubamara
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Program ispisuje deljivost prvih 100 brojeva 
+sa 15");
+            int x;
+            for (x = 0; x <= 100; x++)
+            {
+                if (x % 3 == 0 && x % 5 == 0)
+                {
+                    Console.WriteLine( "Broj {0}: Bubamara", x);
+                }
+                if (x % 3 == 0 && x % 5 != 0)
+                {
+                    Console.WriteLine("Broj {0}: Buba", x);
+                }
+                if (x % 5 == 0 && x % 3 != 0)
+                {
+                    Console.WriteLine("Broj {0}: Mara", x);
+                }
+                if (x % 3 != 0 && x % 5 != 0)
+                {
+                    Console.WriteLine("Broj {0}: Nije deljiv ni sa 5 ni 
+sa 3");
+                }
+            }
+            Console.ReadKey();
+        }
+    }
+}
+
